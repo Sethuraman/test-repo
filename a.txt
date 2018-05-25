@@ -1,2 +1,3 @@
-This is a commit on the master branch
+This is a commit on the master branch that was changed in the branch story1
 this is a second commit on the master branch
+this is a second commit on branch story1
